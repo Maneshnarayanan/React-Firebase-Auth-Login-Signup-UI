@@ -1,8 +1,13 @@
- Integrated Firebase in our React JS application to do Register, login, getting the user details and staying logged in until logout button is present.
-In this I have used two services of firebase one is Authentication & Firestore.
+ Integrated Firebase in React JS application to do Register, login, getting the user details and staying logged in until logout button is present.
+ 
+Used two services of firebase one is Authentication & Firestore.
+
 Login in React JS with Firebase.
+
 Register in React JS with Firebase.
+
 Logout in React JS with Firebase.
+
 Stay Logged In in React JS with Firebase!
 
 
